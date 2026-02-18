@@ -3,7 +3,7 @@ email: chehablab@gmail.com
 description: >-
   Chehab Lab at AUB focusing on AI, Cyber Security, and Healthcare.
 baseurl: ""
-url: "https://chehab-lab.github.io"
+url: "https://chehab-lab.github.io/"
 
 # Collections
 collections:

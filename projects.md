@@ -1,6 +1,7 @@
 ---
 layout: gallery
 title: Projects
+permalink: /projects/
 ---
 
 <section style="padding-top: 20px; overflow-x: hidden;">
