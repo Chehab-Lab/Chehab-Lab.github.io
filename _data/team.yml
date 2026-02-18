@@ -1,0 +1,29 @@
+head:
+  name: Dr. Ali Chehab
+  role: Lab Director
+  bio: Dr. Ali Chehab is a Professor at the American University of Beirut. He leads Chehab Lab focusing on AI, Cyber Security, and Healthcare.
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDSKaH2CzCBqrF2GUhFS0zR9OOSEaDGv_ahw&s
+
+postdocs: []
+
+phd_students:
+  - name: Fatima Nasser
+    image: https://media.licdn.com/dms/image/v2/D4D03AQFJO4ebUxVFmg/profile-displayphoto-scale_200_200/B4DZtXTsrWIAAc-/0/1766696342475?e=2147483647&v=beta&t=7Gj8S8_FztiUZrxrNdLsKUjhmxonJgqf_jw126M91mk
+  - name: Ahmad Mustapha
+    image: https://media.licdn.com/dms/image/v2/D4D03AQHrIA6mhWRATQ/profile-displayphoto-scale_200_200/B4DZwBMK__I8AY-/0/1769546499050?e=2147483647&v=beta&t=KHdC82p0mEqAqM6ArxmrgnVe4lGjJ6uxhyQhCb18hGI
+  - name: Hadi Hasan
+    image: https://media.licdn.com/dms/image/v2/D4D03AQHnv4sTHgSjLg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715920492946?e=2147483647&v=beta&t=QQCUBa7Y4fxolV5DMvLkU9mkrOEOyAKKzU2iPaDYZoU
+
+master_students:
+  - name: Nour Al Khatib
+    image: https://ui-avatars.com/api/?name=Nour+Al+Khatib&background=random&color=fff&size=200
+  - name: Marwa Deeb
+    image: https://ui-avatars.com/api/?name=Marwa+Deeb&background=random&color=fff&size=200
+  - name: Zeina Eldika
+    image: https://ui-avatars.com/api/?name=Zeina+Eldika&background=random&color=fff&size=200
+  - name: Jihad Katerji
+    image: https://media.licdn.com/dms/image/v2/D4E03AQHF1iyiPXeO8g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1729325795467?e=2147483647&v=beta&t=N81b1AkaZE4FtsTP5EIB4YIJhlgMbgqCYKxhpkxn58o
+  - name: Noha Faour
+    image: https://ui-avatars.com/api/?name=Noha+Faour&background=random&color=fff&size=200
+  - name: Zahraa Hussein
+    image: https://ui-avatars.com/api/?name=Zahraa+Hussein&background=random&color=fff&size=200

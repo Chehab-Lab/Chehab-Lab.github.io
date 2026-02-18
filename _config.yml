@@ -1,0 +1,30 @@
+title: Chehab Lab
+email: chehablab@gmail.com
+description: >-
+  Chehab Lab at AUB focusing on AI, Cyber Security, and Healthcare.
+baseurl: ""
+url: "https://chehab-lab.aub.edu"
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+  publications:
+    output: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Markdown processor
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
