@@ -59,11 +59,17 @@ img {
 
 .gallery-layout .site-header .wrapper {
     max-width: 100%;
+    padding: 0 20px;
+    /* Match standard header padding */
+}
+
+/* Specific padding for the project gallery content only */
+.gallery-content-wrapper {
     padding: 0 40px;
 }
 
 @media (max-width: 768px) {
-    .gallery-layout .site-header .wrapper {
+    .gallery-content-wrapper {
         padding: 0 20px;
     }
 }
@@ -323,7 +329,7 @@ h2 {
     overflow-x: auto;
     scroll-behavior: smooth;
     gap: 40px;
-    padding: 20px 40px;
+    padding: 20px 0;
     -ms-overflow-style: none;
     /* IE and Edge */
     scrollbar-width: none;

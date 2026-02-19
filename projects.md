@@ -4,6 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
+<div class="gallery-content-wrapper">
 <section style="padding-top: 20px; overflow-x: hidden;">
   <div class="horizontal-gallery">
     {% for project in site.projects %}
@@ -25,3 +26,4 @@ permalink: /projects/
     {% endfor %}
   </div>
 </section>
+</div>
