@@ -70,8 +70,11 @@ img {
     letter-spacing: -0.5px;
     display: flex;
     align-items: center;
-    gap: 10px;
+    justify-content: flex-start;
+    /* Logo on the left */
+    gap: 12px;
     white-space: nowrap;
+    height: 100%;
 }
 
 .site-logo {
@@ -79,6 +82,7 @@ img {
     height: auto;
     object-fit: contain;
     flex-shrink: 0;
+    display: block;
 }
 
 @media (max-width: 768px) {
