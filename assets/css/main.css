@@ -53,9 +53,7 @@ img {
     align-items: center;
 }
 
-.gallery-layout .site-header {
-    padding: 15px 0;
-}
+/* Consistent header padding across all pages */
 
 .gallery-layout .site-header .wrapper {
     max-width: 100%;
@@ -301,9 +299,7 @@ section {
     }
 }
 
-.gallery-layout section {
-    padding: 20px 0;
-}
+/* Consistent section padding across all pages */
 
 .gallery-layout .site-footer {
     padding: 20px 0;

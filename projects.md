@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-<section style="padding-top: 20px; overflow-x: hidden;">
+<section style="overflow-x: hidden;">
   <div class="horizontal-gallery">
     {% for project in site.projects %}
     <div class="project-card project-card-overlay">
