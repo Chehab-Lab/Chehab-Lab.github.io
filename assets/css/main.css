@@ -75,15 +75,15 @@ img {
 }
 
 .site-logo {
-    height: 36px;
-    width: auto;
+    width: 35px;
+    height: auto;
     object-fit: contain;
     flex-shrink: 0;
 }
 
 @media (max-width: 768px) {
     .site-logo {
-        height: 32px;
+        width: 30px;
     }
 }
 
