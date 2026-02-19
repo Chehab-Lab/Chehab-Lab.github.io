@@ -27,6 +27,8 @@ master_students:
     image: https://ui-avatars.com/api/?name=Noha+Faour&background=random&color=fff&size=200
   - name: Zahraa Hussein
     image: https://ui-avatars.com/api/?name=Zahraa+Hussein&background=random&color=fff&size=200
+  - name: Mohammad Zahwe
+    image: https://ui-avatars.com/api/?name=Mohammad+Zahwe&background=random&color=fff&size=200
 
 interns:
   - name: Charbel Toumieh
