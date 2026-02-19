@@ -55,16 +55,7 @@ img {
 
 /* Consistent header padding across all pages */
 
-.gallery-layout .site-header .wrapper {
-    max-width: 100%;
-    padding: 0 40px;
-}
-
-@media (max-width: 768px) {
-    .gallery-layout .site-header .wrapper {
-        padding: 0 20px;
-    }
-}
+/* Unified header alignment across all layouts */
 
 .site-title {
     font-size: 1.4rem;
@@ -301,10 +292,7 @@ section {
 
 /* Consistent section padding across all pages */
 
-.gallery-layout .site-footer {
-    padding: 20px 0;
-    margin-top: 20px;
-}
+/* Unified footer spacing across all layouts */
 
 h2 {
     font-size: 2.5rem;
