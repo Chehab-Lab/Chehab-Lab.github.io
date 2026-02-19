@@ -6,7 +6,7 @@ permalink: /contact/
 
 <section>
   <div class="wrapper">
-    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 60px; margin-top: 40px;">
+    <div class="responsive-grid grid-2" style="margin-top: 40px;">
         <div>
             <h3 style="font-size: 1.5rem; margin-bottom: 20px;">Get in Touch</h3>
             <p style="margin-bottom: 30px;">For research collaborations, student inquiries, or general questions, please reach out via email.</p>

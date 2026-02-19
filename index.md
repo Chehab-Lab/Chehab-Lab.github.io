@@ -44,7 +44,7 @@ layout: default
     <h2>About the Lab</h2>
     <p>The <strong>Chehab Lab</strong> is a premier research group located at the <strong>American University of Beirut (AUB)</strong>.<br>Led by Dr. Ali Chehab, our lab focuses on solving complex problems at the intersection of technological innovation and societal impact.</p>
     
-    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 40px; margin-top: 40px;">
+    <div class="responsive-grid grid-3" style="margin-top: 40px;">
       <div class="theme-card">
         <div class="theme-icon">
           <svg viewBox="0 0 24 24" width="48" height="48" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">

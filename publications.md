@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Publications
+permalink: /publications/
 ---
 
 <section>
@@ -17,8 +18,7 @@ title: Publications
         <span class="pub-title">{{ pub.title }}</span>
         <div class="pub-authors">{{ pub.authors }}</div>
         <div class="pub-meta" style="font-size: 0.9rem; margin-top: 5px;">
-          <em>{{ pub.journal }}</em> | 
-          <a href="{{ pub.link }}" style="color: var(--accent-blue); text-decoration: none;">Link to Paper</a>
+          <em>{{ pub.journal }}</em> 
           {% if pub.citations %}
           <span class="pub-citations" style="margin-left: 15px; font-weight: 600; color: #555;">Cited by: {{ pub.citations }}</span>
           {% endif %}
