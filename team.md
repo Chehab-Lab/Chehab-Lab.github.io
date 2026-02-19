@@ -38,5 +38,15 @@ permalink: /team/
       {% endfor %}
     </div>
 
+    <h3>Interns</h3>
+    <div class="team-grid">
+      {% for member in site.data.team.interns %}
+      <div class="team-card">
+        <img src="{{ member.image | default: 'https://ui-avatars.com/api/?background=random' }}" alt="{{ member.name }}" class="team-image">
+        <div class="team-name">{{ member.name }}</div>
+      </div>
+      {% endfor %}
+    </div>
+
   </div>
 </section>
