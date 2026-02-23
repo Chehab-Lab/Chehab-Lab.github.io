@@ -1,37 +1,49 @@
 head:
   name: Dr. Ali Chehab
   role: Lab Director
-  bio: Dr. Ali Chehab is a Professor at the American University of Beirut. He leads Chehab Lab focusing on AI, Cyber Security, and Healthcare.
+  bio: Ali Chehab is a Professor and Chair of the ECE Department at AUB. His research advances trustworthy AI, cybersecurity, and intelligent cloud-edge architectures, with significant contributions to AI-driven healthcare systems, including medical imaging analytics, predictive modeling, and privacy-aware clinical AI solutions. His work integrates machine learning, system resilience, and data governance to ensure that healthcare AI systems are accurate, secure, and deployable in real-world environments. He has led funded research projects and supervised graduate research at the intersection of AI, Medicine, and Cybersecurity.
   image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDSKaH2CzCBqrF2GUhFS0zR9OOSEaDGv_ahw&s
 
 postdocs: []
 
 phd_students:
   - name: Fatima Nasser
+    email: fhn05@mail.aub.edu
     image: https://media.licdn.com/dms/image/v2/D4D03AQFJO4ebUxVFmg/profile-displayphoto-scale_200_200/B4DZtXTsrWIAAc-/0/1766696342475?e=2147483647&v=beta&t=7Gj8S8_FztiUZrxrNdLsKUjhmxonJgqf_jw126M91mk
   - name: Ahmad Mustapha
+    email: amm90@mail.aub.edu
     image: https://media.licdn.com/dms/image/v2/D4D03AQHrIA6mhWRATQ/profile-displayphoto-scale_200_200/B4DZwBMK__I8AY-/0/1769546499050?e=2147483647&v=beta&t=KHdC82p0mEqAqM6ArxmrgnVe4lGjJ6uxhyQhCb18hGI
   - name: Hadi Hasan
+    email: hsh24@mail.aub.edu
     image: https://media.licdn.com/dms/image/v2/D4D03AQHnv4sTHgSjLg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715920492946?e=2147483647&v=beta&t=QQCUBa7Y4fxolV5DMvLkU9mkrOEOyAKKzU2iPaDYZoU
 
 master_students:
   - name: Nour Al Khatib
+    email: nka34@mail.aub.edu
     image: https://ui-avatars.com/api/?name=Nour+Al+Khatib&background=random&color=fff&size=200
   - name: Marwa Deeb
+    email: mhd41@mail.aub.edu
     image: https://ui-avatars.com/api/?name=Marwa+Deeb&background=random&color=fff&size=200
   - name: Zeina Eldika
+    email: zte04@mail.aub.edu
     image: https://media.licdn.com/dms/image/v2/D4E03AQHMDR8bQaaiCQ/profile-displayphoto-crop_800_800/B4EZlxi3CXIwAI-/0/1758546589559?e=1773273600&v=beta&t=pftMnmP5QCaQ7olfmV8X4xMzckwr5Poxb1Xd5g76ZYE
   - name: Jihad Katerji
+    email: jtk08@mail.aub.edu
     image: https://media.licdn.com/dms/image/v2/D4E03AQHF1iyiPXeO8g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1729325795467?e=2147483647&v=beta&t=N81b1AkaZE4FtsTP5EIB4YIJhlgMbgqCYKxhpkxn58o
   - name: Noha Faour
+    email: nmf21@mail.aub.edu
     image: https://ui-avatars.com/api/?name=Noha+Faour&background=random&color=fff&size=200
   - name: Zahraa Hussein
+    email: husseinzahraa357@gmail.com
     image: https://ui-avatars.com/api/?name=Zahraa+Hussein&background=random&color=fff&size=200
   - name: Mohammad Zahwe
+    email: mhz12@mail.aub.edu
     image: https://ui-avatars.com/api/?name=Mohammad+Zahwe&background=random&color=fff&size=200
 
 interns:
   - name: Charbel Toumieh
+    email: cct08@mail.aub.edu
     image: https://media.licdn.com/dms/image/v2/D4E03AQHnVWnBX-DE6Q/profile-displayphoto-shrink_200_200/B4EZdoehAdHIAc-/0/1749804520335?e=2147483647&v=beta&t=iIaUFeta4QK9AedAKGTxjI0jXl7Xfa6lOVBNbSiaDyQ
   - name: Gaurav Patil
+    email: patilgauravpradeep@gmail.com
     image: https://media.licdn.com/dms/image/v2/D4D03AQHfdymYZrCvZQ/profile-displayphoto-scale_200_200/B4DZdisJUrGkAY-/0/1749707430107?e=2147483647&v=beta&t=QTg0fcvqiE3S9j7HzGXsBKxojZj_dXvv6IT5Tmag2mg

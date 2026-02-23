@@ -1,0 +1,273 @@
+publications:
+- title: "Machine Learning-Based Cardiovascular Risk Calculator for Non-Cardiac Surgery"
+  publisher: "Open Heart"
+  authors: "Nour Al Khatib, Ali Chehab, Habib A. Dakik, Razane Tajeddine"
+  year: "2026"
+  link: "https://doi.org/10.1136/openhrt-2025-003565"
+  is_journal: true
+
+- title: "On the Effectiveness of Membership Inference in Targeted Data Extraction from Large Language Models"
+  publisher: "IEEE Secure and Trustworthy Machine Learning Conference (SaTML), TUM, Germany"
+  authors: "Ali Al Sahili, Ali Chehab, Razane Tajeddine"
+  year: "2026"
+  link: 
+  is_journal: false
+
+- title: "Advanced Data-Driven Anomalies Detection and Diagnosis for Cyber-Physical Energy Systems"
+  publisher: "Annals of Telecommunications"
+  authors: "Hassan N. Noura, Zaid Allal, Ola Salman, Ali Chehab"
+  year: "2025"
+  link: 
+  is_journal: true
+
+- title: "Stacking Large Language Models is All You Need: A Case Study on Phishing URL Detection"
+  publisher: "Journal of Artificial Intelligence and Soft Computing Research"
+  authors: "Hawraa Nasser, Fouad Trad, Ali Chehab"
+  year: "2025"
+  link: 
+  is_journal: true
+
+- title: "Advanced Machine Learning in Smart Grids: An Overview"
+  publisher: "Internet of Things and Cyber-Physical Systems"
+  authors: "Hassan Noura, Jean Paul Yaacoub, Ola Salman, Ali Chehab"
+  year: "2025"
+  link: 
+  is_journal: true
+
+- title: "Evaluating the Efficacy of Prompt-Engineered Large Multimodal Models Versus Fine-Tuned Vision Transformers in Image-Based Security Applications"
+  publisher: "ACM Transactions on Intelligent Systems and Technology"
+  authors: "Fouad Trad, Ali Chehab"
+  year: "2025"
+  link: 
+  is_journal: true
+
+- title: "Streamlining Systematic Reviews with Large Language Models Using Prompt Engineering and Retrieval Augmented Generation"
+  publisher: "BMC Medical Research Methodology"
+  authors: "Fouad Trad, Ryan Yammine, Jana Charafeddine, Marlene Chakhtoura, Maya Rahme, Ghada El-Hajj Fuleihan, Ali Chehab"
+  year: "2025"
+  link: "https://doi.org/10.1186/s12874-025-02583-5"
+  is_journal: true
+
+- title: "Parsimonious and Explainable Machine Learning for Predicting Mortality in Patients Post Hip Fracture Surgery"
+  publisher: "Scientific Reports"
+  authors: "B. Isber, K. Hatoum, D. Obeid, M. Chahine, Fouad Trad, R. Yammine, Ghada El-Hajj Fuleihan, Ali Chehab"
+  year: "2025"
+  link: "https://doi.org/10.1038/s41598-025-98713-6"
+  is_journal: true
+
+- title: "Image Segmentation Framework for Detecting Adversarial Attacks for Autonomous Driving Cars"
+  publisher: "Journal of Applied Sciences"
+  authors: "Ahmad Sattout, Ali Chehab, Ammar Mohanna, Razane Tajeddine"
+  year: "2025"
+  link: "https://doi.org/10.3390/app15031328"
+  is_journal: true
+
+- title: "Augmenting a Spine CT Scans Dataset Using VAEs, GANs, and Transfer Learning for Improved Detection of Vertebral Compression Fractures"
+  publisher: "Computers in Biology and Medicine"
+  authors: "Zeinal El Kojok, Hadi Al Khansa, Fouad Trad, Ali Chehab"
+  year: "2025"
+  link: "https://doi.org/10.1016/j.compbiomed.2024.109446"
+  is_journal: true
+
+- title: "KAG: A Scalable Knowledge-Augmented Generation System for Educational Content Management"
+  publisher: "International Conference on Foundation and Large Language Models (FLLM), Vienna, Austria"
+  authors: "Hadi Hasan, Ali Ismail, Ammar Mohanna, Ali Chehab"
+  year: "2025"
+  link: "https://ieeexplore.ieee.org/document/11391105"
+  is_journal: false
+
+- title: "Chained Prompting for Better Systematic Review Search Strategies"
+  publisher: "International Conference on Foundation and Large Language Models (FLLM), Vienna, Austria"
+  authors: "Fatima Nasser, Fouad Trad, Ammar Mohanna, Ghada El-Hajj Fuleihan, Ali Chehab"
+  year: "2025"
+  link: 
+  is_journal: false
+
+- title: "Retrieval-Augmented Few-Shot Prompting Versus Fine-Tuning for Code Vulnerability Detection"
+  publisher: "International Conference on Foundation and Large Language Models (FLLM), Vienna, Austria"
+  authors: "Fuad Trad, Ali Chehab"
+  year: "2025"
+  link: 
+  is_journal: false
+
+- title: "CLASP: Cost-Optimized LLM-based Agentic System for Phishing Detection"
+  publisher: "5th International Conference on Electrical, Computer and Energy Technologies (ICECET), Paris, France"
+  authors: "Fuad Trad, Ali Chehab"
+  year: "2025"
+  link: 
+  is_journal: false
+
+- title: "OCSVM-Siamese Framework for Detecting Adversarial Attacks for Autonomous Driving Cars"
+  publisher: "International Wireless Communications & Mobile Computing Conference (IWCMC), Abu Dhabi, UAE"
+  authors: "Ahmad Sattout, Ali Chehab"
+  year: "2025"
+  link: 
+  is_journal: false
+
+- title: "Detecting Quishing Attacks with Machine Learning Techniques Through QR Code Analysis"
+  publisher: "International Conference on Optimization and Learning (OLA), Dubai"
+  authors: "Fuad Trad, Ali Chehab"
+  year: "2025"
+  link: 
+  is_journal: false
+
+- title: "Leveraging Large Language Models for Reducing False Positives and Prioritizing Alerts in Intrusion Detection Systems"
+  publisher: "Advanced Information Networking and Applications (AINA 2025), Springer"
+  authors: "Ali Mustafa, Fuad Trad, Ali Chehab"
+  year: "2025"
+  link: "https://doi.org/10.1007/978-3-031-87772-8_37"
+  is_journal: false
+
+- title: "Image Features Reordering and Adjustment to Mitigate the Transferability Effect of Adversarial Attacks for Autonomous Driving Cars"
+  publisher: "International Conference on AI in Information and Communication (ICAIIC), Fukuoka, Japan"
+  authors: "Ahmad Sattout, Ali Chehab"
+  year: "2025"
+  link: 
+  is_journal: false
+
+- title: "Manual Prompt Engineering Is Not Dead: A Case Study on Large Language Models for Code Vulnerability Detection with DSPy"
+  publisher: "International Conference on Data Science and Machine Learning Applications (CDMA), Riyadh, Saudi Arabia"
+  authors: "Fuad Trad, Ali Chehab"
+  year: "2025"
+  link: 
+  is_journal: false
+
+- title: "Can LLMs Translate Cultural Nuance in Dialects? A Case Study on Lebanese Arabic"
+  publisher: "International Conference on Computational Linguistics (COLING 2025), Abu Dhabi, UAE"
+  authors: "Silavana Yakhni, Ali Chehab"
+  year: "2025"
+  link: 
+  is_journal: false
+
+- title: "MLPhishChain: A Machine Learning-Based Blockchain Framework for Reducing Phishing Threats"
+  publisher: "Frontiers in Blockchain"
+  authors: "Fouad Trad, Elie Nasr, Ali Chehab"
+  year: "2024"
+  link: "https://doi.org/10.3389/fbloc.2024.1484894"
+  is_journal: true
+
+- title: "Prompt Engineering or Fine-Tuning? A Case Study on Phishing Detection with Large Language Models"
+  publisher: "Machine Learning and Knowledge Extraction (MAKE)"
+  authors: "Fouad Trad, Ali Chehab"
+  year: "2024"
+  link: "https://doi.org/10.3390/make6010018"
+  is_journal: true
+
+- title: "Performance of a Machine Learning Model in the Selection of Articles for Systematic Reviews"
+  publisher: "Journal of Bone and Mineral Research"
+  authors: "Y. Ryan, M. Chakhtoura, M. Rahme, S. Ajjour, Ali Chehab, Ghada El-Hajj Fuleihan"
+  year: "2024"
+  link: 
+  is_journal: true
+
+- title: "Advanced Anomaly Detection in Energy Control Systems Using Machine Learning and Feature Engineering"
+  publisher: "8th Cyber Security in Networking Conference (CSNet), Paris, France"
+  authors: "Fatema El Husseini, Hassan Noura, Ola Salman, Ali Chehab"
+  year: "2024"
+  link: 
+  is_journal: false
+
+- title: "Advanced Machine Learning Approaches for Zero-Day Attack Detection: A Review"
+  publisher: "8th Cyber Security in Networking Conference (CSNet), Paris, France"
+  authors: "Fatema El Husseini, Hassan Noura, Ola Salman, Ali Chehab"
+  year: "2024"
+  link: 
+  is_journal: false
+
+- title: "Large Multimodal Agents for Accurate Phishing Detection with Enhanced Token Optimization and Cost Reduction"
+  publisher: "International Conference on Foundation and Large Language Models (FLLM2024), Dubai, UAE"
+  authors: "Fuad Trad, Ali Chehab"
+  year: "2024"
+  link: 
+  is_journal: false
+
+- title: "VCDissect: An Efficient Pipeline for Vertebral Column Patching in Medical Images"
+  publisher: "2nd PAARS Artificial Intelligence Forum, Dubai, UAE"
+  authors: "Ali Mustafa, Ali Chehab"
+  year: "2024"
+  link: 
+  is_journal: false
+
+- title: "Enhancing Network Security Through Deep Learning: Mitigating Feature Engineering and Zero-Day Attacks"
+  publisher: "The Fourth Intelligent Cybersecurity Conference (ICSC2024), Valencia, Spain"
+  authors: "Ibrahim El Didi, Fouad Trad, Ali Chehab"
+  year: "2024"
+  link: 
+  is_journal: false
+
+- title: "Machine Learning Model for Hip Fracture Mortality Prediction Using the NSQIP Database"
+  publisher: "ASBMR 2024 Annual Meeting, Toronto, Canada"
+  authors: "Bassel Isber, Khaled Hatoum, Dana Obeid, Mohammad Chahine, Fouad Trad, Ghada El-Hajj Fuleihan, Ali Chehab"
+  year: "2024"
+  link: 
+  is_journal: false
+
+- title: "To Ensemble or Not: Assessing Majority Voting Strategies for Phishing Detection with Large Language Models"
+  publisher: "International Conference on Intelligent Systems and Pattern Recognition (ISPR), Springer"
+  authors: "Fouad Trad, Ali Chehab"
+  year: "2024"
+  link: "https://doi.org/10.1007/978-3-031-82150-9_13"
+  is_journal: false
+
+- title: "SERS: Secure & Efficient Random and Symbol Linear Network Coding Schemes"
+  publisher: "International Wireless Communications & Mobile Computing Conference (IWCMC 2024), Ayia Napa, Cyprus"
+  authors: "Hassan Noura, Ola Salman, Ali Chehab"
+  year: "2024"
+  link: 
+  is_journal: false
+
+- title: "Assessing the Effectiveness of Siamese Neural Networks to Mitigate Frequent Retraining in IoT Device Identification Models"
+  publisher: "International Conference on Platform Technology and Service (PlatCon), Busan, Korea"
+  authors: "Fuad Trad, Ali Hussein, Ali Chehab"
+  year: "2023"
+  link: 
+  is_journal: false
+
+- title: "High-Density FeFET-based CAM Cell Design Via Multi-Dimensional Encoding"
+  publisher: "Great Lakes Symposium on VLSI (GLSVLSI), Knoxville, TN, USA"
+  authors: "Hadi Noureddine, Omar Bekdache, Mohamad Al Tawil, Rouwaida Kanj, Ali Chehab, Ahmed Eltawil, Mohammed Fouda"
+  year: "2023"
+  link: "https://doi.org/10.1145/3583781.3590301"
+  is_journal: false
+
+- title: "Opportunistic Detection of Vertebral Compression Fractures on Chest and Abdominal CT scans using Machine Learning & Artificial Intelligence: Closing the Care Gap"
+  publisher: "Journal of Bone and Mineral Research"
+  authors: "El Helou, M., Ali Hussein, R. El Alam, R. Chahine, W. Rafeh, D. Salih Bacha, F. Saleh, Nabil Khoury, Ali Chehab, Ghada El-Hajj Fuleihan"
+  year: "2023"
+  link: "https://shorturl.at/Ycy1S"
+  is_journal: true
+
+- title: "Conception of Efficient Key-Dependent Binary Diffusion Matrix Structures for Dynamic Cryptographic Algorithms"
+  publisher: "Journal of Information Security and Applications"
+  authors: "Hassan Noura, Ola Salman, Ali Chehab"
+  year: "2023"
+  link: "https://doi.org/10.1016/j.jisa.2023.103514"
+  is_journal: true
+
+- title: "Ethical Hacking for IoT: Security Issues, Challenges, Solutions and Recommendation"
+  publisher: "Internet of Things and Cyber-Physical Systems"
+  authors: "Jean Paul Yaacoub, Hassan N. Noura, Ola Salman, Ali Chehab"
+  year: "2023"
+  link: "https://doi.org/10.1016/j.iotcps.2023.04.002"
+  is_journal: true
+
+- title: "Leveraging Adversarial Samples for Enhanced Classification of Malicious and Evasive PDF Files"
+  publisher: "Applied Sciences"
+  authors: "Fouad Trad, Ali Hussein, Ali Chehab"
+  year: "2023"
+  link: "https://doi.org/10.3390/app13063472"
+  is_journal: true
+
+- title: "Machine Learning-based Anti-jamming Technique at The Physical Layer"
+  publisher: "Concurrency and Computation: Practice and Experience"
+  authors: "Mahdi Chehimi, M. Awad, M. Al-Husseini, Ali Chehab"
+  year: "2023"
+  link: "https://doi.org/10.1002/cpe.7649"
+  is_journal: true
+
+- title: "LESCA: Lightweight Stream Cipher Algorithm for Emerging Systems"
+  publisher: "Ad Hoc Networks"
+  authors: "Hassan N. Noura, Ola Salman, Raphael Couturier, Ali Chehab"
+  year: "2023"
+  link: "https://doi.org/10.1016/j.adhoc.2022.102999"
+  is_journal: true

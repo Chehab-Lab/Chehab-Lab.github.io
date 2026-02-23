@@ -1,0 +1,202 @@
+awards:
+  - title: "Top 2% Most-Cited Scientists Worldwide"
+    issuer: "Elsevier"
+    year: 2025
+    description: "Recognized among the world's top two percent most-cited scientists in the updated science-wide author databases of standardized citation indicators."
+
+  - title: "Special Recognition and Mention of Leadership in Cyber Security Research Quality and Impact in the Arab Region"
+    issuer: "Communications of the ACM"
+    year: 2021
+    related_publication:
+      title: "Cyber Security Research in the Arab Region: A Blooming Ecosystem with Global Ambitions"
+      journal: "Communications of the ACM"
+      volume: 64
+      issue: 4
+      date: "April 2021"
+      doi: "10.1145/3447741"
+
+  - title: "Excellent Paper Award"
+    conference: "International Conference on AI in Information and Communication (ICAIIC)"
+    date: "February 18-21, 2025"
+
+  - title: "Best Paper Award"
+    conference: "International Conference on Wireless Networks and Mobile Systems (WINSYS)"
+    date: "July 8-10, 2020"
+
+  - title: "Best Paper Award"
+    conference: "15th International Wireless Communications & Mobile Computing Conference (IWCMC)"
+    location: "Tangier, Morocco"
+    date: "June 24-28, 2019"
+
+  - title: "Best Paper Award"
+    conference: "IEEE International Conference on Fog and Edge Mobile Computing (FMEC)"
+    location: "Valencia, Spain"
+    date: "May 8-11, 2017"
+
+  - title: "Best Paper Award"
+    conference: "International Symposium on Quality Electronic Design (ISQED)"
+    location: "Santa Clara, CA, USA"
+    date: "March 3-5, 2014"
+
+publication_stats:
+  last_updated: "February 23, 2026"
+  totals:
+    book_chapters: 15
+    journal_articles: 134
+    conference_papers: 230
+    total_publications: 379
+  google_scholar:
+    citations: 10174
+    h_index: 45
+    i10_index: 169
+
+research_supervision:
+  phd_students:
+    - status: "Current"
+      name: "Fatima Fneich"
+      title: "AI for Medicine"
+    - status: "Current"
+      name: "Ahmad Mustapha"
+      title: "AI for Imaging"
+    - status: "Current"
+      name: "Fatima Nasser"
+      title: "AI for Medicine"
+    - status: "Current"
+      name: "Hadi Hassan"
+      title: "AI for Medicine"
+    - status: "Current"
+      name: "Razan El Mais"
+      title: "Privacy & Security"
+    - status: "Dec. 2025"
+      name: "Fouad Trad"
+      title: "From Traditional ML to LLMs for Advancing Cybersecurity in Dynamic Environments"
+    - status: "Feb. 2025"
+      name: "Ahmad Sattout"
+      title: "Defense Mechanisms for Mitigating Adversarial Attacks Against Deep Learning-Based Traffic Signs Recognition of Autonomous Driving Cars"
+    - status: "April 2021"
+      name: "Louma Chaddad"
+      title: "Thwarting Traffic Classification for Privacy Preservation"
+    - status: "Oct. 2020"
+      name: "Basma Hajri"
+      title: "Design and Optimization of Low-Power Embedded Resistive Memory (RRAM)"
+    - status: "Aug. 2020"
+      name: "Reem Melki"
+      title: "Designing Physical Layer Security Solutions for Emerging Communication Systems in 5G Networks"
+    - status: "July 2020"
+      name: "Asmaa Abdallah"
+      title: "Interference Mitigation in 5G Network Densification Technologies: Algorithms and Performance limits"
+    - status: "July 2020"
+      name: "Saleh Usman"
+      title: "Optimized ASIC Accelerator Chips for LDPC Decoders by Joint Algorithm, Architecture, and Circuit Co-Design"
+    - status: "Feb. 2020"
+      name: "Ola Salman"
+      title: "Machine Learning for Internet Traffic Classification"
+    - status: "Jan. 2020"
+      name: "Ali Hussein"
+      title: "Machine Learning for Network Resilience"
+    - status: "Jan. 2020"
+      name: "Sarah Abdallah"
+      title: "On Centralized and Distributed Control of Communication Networks"
+    - status: "Sep. 2018"
+      name: "Farah Saab"
+      title: "Crowdsourcing for Mobile Security: Modelling, Psychological Bias, and Performance of Aggregation Methods"
+    - status: "July 2018"
+      name: "Maha Shamseddine"
+      title: "Service Provisioning in Virtualized and Programmable Network Environments"
+    - status: "March 2018"
+      name: "Hadi Sarieddine"
+      title: "Large Multiuser MIMO Detection: Algorithms and Architectures"
+    - status: "Feb. 2015"
+      name: "Ayman Tajeddine"
+      title: "Reputation-Based Trust Model for Secure Routing in Wireless Sensor Networks"
+    - status: "Feb. 2012"
+      name: "Wassim Itani"
+      title: "Challenges and Solutions for Security and Service Collaboration in the Cloud"
+
+  master_students:
+    - { status: "Current", name: "Ali Jaafar", title: "AI for Cybersecurity" }
+    - { status: "Current", name: "Mohamad Zahwe", title: "AI for Imaging" }
+    - { status: "Current", name: "Ayman Kanso", title: "AI for Cybersecurity" }
+    - { status: "Current", name: "Mariam Obeid (USJ)", title: "AI for Cybersecurity" }
+    - { status: "Current", name: "Zahraa Hussein (CS)", title: "Self-Healing Cloud and Edge Devices" }
+    - { status: "Current", name: "Zeina Eldika", title: "AI for Medicine" }
+    - { status: "Current", name: "Noha Faour", title: "AI for Medicine" }
+    - { status: "Current", name: "Jihad Katerji", title: "AI for Medicine" }
+    - { status: "Current", name: "Ola Sadek", title: "AI for Medicine" }
+    - { status: "Current", name: "Anthony Saab", title: "AI for Cybersecurity" }
+    - { status: "Current", name: "Ali Sahili", title: "AI Security" }
+    - { status: "Current", name: "Nour El Khatib", title: "AI for Medicine" }
+    - { status: "Current", name: "Nour Fakih", title: "Hardware Security" }
+    - { status: "Current", name: "Zeina Kojok", title: "AI for Medicine" }
+    - { status: 2025, name: "Silvana Yakhni", title: "Bridging Cultures: Harnessing Large Language Models for Translation of Lebanese Dialect" }
+    - { status: 2024, name: "Fatima Nasser", title: "Accelerating Umbrella Reviews Via Natural Language Processing" }
+    - { status: 2024, name: "Ali Moustafa", title: "ML for Analyzing Logs of Security Operating Center" }
+    - { status: 2024, name: "Ibrahim El-Didi", title: "Enhancing Network Security Through Deep Learning" }
+    - { status: 2024, name: "Hussein Fardoun", title: "Enhancing AI-Based Intrusion Detection via Generative Adversarial Networks" }
+    - { status: 2023, name: "Rim Cherri", title: "Utilizing Transfer Learning for Vertebral Fractures Detection" }
+    - { status: 2022, name: "Hadi Abdel Ghani", title: "Artificial Intelligence for Security of IoT Devices" }
+    - { status: 2021, name: "Hussein Kaheel", title: "AI-Based Medical Image Analysis for Early COVID-19 Detection" }
+    - { status: 2020, name: "Mahdi Chehimi", title: "Physical Layer for Combating Jammers and Eavesdroppers" }
+    - { status: 2020, name: "Iman Dernayka", title: "Blockchain Development Platforms: Performance Comparison" }
+    - { status: 2020, name: "Ramzi Sabra", title: "Robustness Guided Verification" }
+    - { status: 2017, name: "Georgi Ajaeiya", title: "Network Traffic Classification and Novelty Detection for Mobile Apps" }
+    - { status: 2017, name: "Serove Awedikian", title: "Hardware Design and Implementation of Elliptic Curve Cryptography" }
+    - { status: 2016, name: "Nareg Adalian", title: "IPSEC Scalability: Network Design" }
+    - { status: 2016, name: "Riwa Mouawi", title: "Assessment of In-app Ads Security Vulnerabilities and Resource Consumption" }
+    - { status: 2016, name: "Hrant Sulahian", title: "A Smart Resource Allocation Algorithm for D2D Communications in Cellular Networks" }
+    - { status: 2016, name: "Vahe Seferian", title: "An Identity Based Security Framework for Advanced Metering Infrastructure" }
+    - { status: 2015, name: "Joseph Loutfi", title: "Modeling Diameter Protocol in LTE Environment" }
+    - { status: 2015, name: "Khaled Bakhit", title: "Dagger: Distributed Architecture for Granular Mitigation of Mobile Based Attacks" }
+    - { status: 2014, name: "Louma Chaddad", title: "Data Center Design with Autonomic Power-Aware Workload Allocation" }
+    - { status: 2014, name: "Lama Shaer", title: "Optimal VLSI Architecture for 2x2 MIMO Detector" }
+    - { status: 2014, name: "Sarah Abdallah", title: "Low Power Stochastic SIMD Hardware for Error Tolerant Applications" }
+    - { status: 2013, name: "Imad Sargi", title: "The Effects of Smartphones Signaling on LTE Backbone" }
+    - { status: 2013, name: "Farah Saab", title: "Energy Efficient Motion Estimation Using Stochastic Processing for Video Conferencing Applications" }
+    - { status: 2013, name: "Naoum Sayegh", title: "SCADA Vulnerability Assessment and Attacks Detection" }
+    - { status: 2013, name: "Khodor Hamandi", title: "Application-Based User and Telecom Targeted Attacks on Android-Based Smartphones: Applicability, Detection and Mitigation" }
+    - { status: 2013, name: "Alain Haddad", title: "MEMS Sensor for Low Frequency Vibration Detection" }
+    - { status: 2012, name: "Salwa Adriana Saab", title: "Secure Mobile Application Partitioning In Energy-Efficient Cloud Computing" }
+    - { status: 2012, name: "Alaa Atassi", title: "Intrusion detection for SCADA and BMS" }
+    - { status: 2012, name: "Ramzi Bassil", title: "The Effects of Signaling and Resource Reservation Attacks on LTE Networks" }
+    - { status: 2012, name: "Faisal Hamady", title: "Scalable low power computing via scheduling on subsets of multicore processors" }
+    - { status: 2010, name: "Soulaf Saab", title: "Delay-Tolerant Networks: Secure Communications in The Presence of Oppressive Governments" }
+    - { status: 2010, name: "Cesar Ghali", title: "CATRAC: A Context Aware Trust-based and Role-based Access Control for Composite Web Services" }
+    - { status: 2010, name: "Saleem Wehbe", title: "Security and Privacy for Low-Cost RFID Tags" }
+    - { status: 2009, name: "Mounira Sayour", title: "Secure_Script: A Client and Server Collaborative System to Protect against JavaScript-Based Attacks" }
+    - { status: 2008, name: "Hoda Daou", title: "RFID Security Protocols" }
+    - { status: 2008, name: "Rima Deghaili", title: "Trust-Privacy Tradeoffs in Distributed Computing" }
+    - { status: 2008, name: "Batoul Haidar", title: "Host Protection in Grid Computing" }
+    - { status: 2007, name: "Zein Radwan", title: "XPRIDE Firewall: Policy-Driven Content-Based Web Services Firewall" }
+    - { status: 2007, name: "Layla Khoury", title: "Implementing and Evaluating an Authentication Mechanism and Key Agreement Protocol for SIP that Uses Identity-based Cryptography" }
+    - { status: 2007, name: "Lara Srour", title: "Security, Personalization and Trust in Distributed File Sharing Networks and Centralized Search Engines" }
+    - { status: 2006, name: "Camille Gaspard", title: "PRIDE – Policy-Driven WEB Security for Handheld Wireless Devices" }
+    - { status: 2005, name: "Anis Nazer", title: "Evaluation of Dynamic Current Testing for CMOS Domino Circuits" }
+    - { status: 2005, name: "Mohamad Eid", title: "ADMIDS - Adaptive and Defense Mobile Agent Based Intrusion Detection System" }
+    - { status: 2005, name: "Alaa Dalghan", title: "WISEC: VPN over WLAN 802.11. Design and Implementation of a Secure Virtual Wireless Environment" }
+    - { status: 2005, name: "Yasser Shaer", title: "Secure Range Extensions in IEEE 802.11i" }
+    - { status: 2005, name: "Rania Wehbe", title: "SERVEN: Secure Routing and Protection of Security Mechanisms in Inter-Vehicle Communication (IVC) Networks" }
+    - { status: 2005, name: "Ruba Kaissi", title: "DAWWSEN: A Defense Mechanism Against Wormhole Attacks in Wireless Sensor Networks" }
+    - { status: 2005, name: "Elias Nahra", title: "TRUMMAR Optimization and Implementation on Wide Scale Networks" }
+    - { status: 2005, name: "Ayman Tajeddine", title: "PATROL-F – A Comprehensive Reputation-Based Trust Model with Fuzzy Subsystems" }
+    - { status: 2004, name: "Samer Hanna", title: "Lighter Weight Mobile Agent System" }
+    - { status: 2004, name: "Ghada Derbas", title: "TRUMMAR - A Trust Model for Mobile Agent Systems based on Reputation" }
+  
+service_to_profession:
+  conference_organization:
+    - role: "Promotion & Tenure Review"
+      institution: "ECE Department - Rochester Institute of Technology"
+      date: "Dec. 2024"
+    - role: "Co-Chair"
+      event: "IoT & Sensor Networks Symposium, ICC 2021"
+    - role: "General Co-Chair"
+      event: "Fifth IEEE International Conference on Software Defined Systems (SDS-2018)"
+    - role: "Co-Chair"
+      event: "Reputation, Evidence and other Collaboration Know-How (TRECK 2014)"
+    - role: "Track Chair"
+      event: "Mobile & Cloud Computing, ICCIT 2013"
+
+professional_associations:
+  - "Senior Member, IEEE"
+  - "Senior Member, Association for Computing Machinery (ACM)"
+  - "Member, IEEE Computer Society"
+  - "Member, Order of Engineers, Beirut, Lebanon"

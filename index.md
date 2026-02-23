@@ -42,7 +42,7 @@ layout: default
 <section id="about">
   <div class="wrapper">
     <h2>About the Lab</h2>
-    <p>The <strong>Chehab Lab</strong> is a premier research group located at the <strong>American University of Beirut (AUB)</strong>.<br>Led by Dr. Ali Chehab, our lab focuses on solving complex problems at the intersection of technological innovation and societal impact.</p>
+    <p><strong>Chehab Lab</strong> is a premier research group located at the <strong>American University of Beirut (AUB)</strong>.<br>Led by Dr. Ali Chehab, our lab focuses on solving complex problems at the intersection of technological innovation and societal impact.</p>
     
     <div class="responsive-grid grid-3" style="margin-top: 40px;">
       <div class="theme-card">
