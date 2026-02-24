@@ -4,8 +4,6 @@ title: Dr. Ali Chehab
 permalink: /chehab/
 ---
 
-
-
 <section class="summary-section">
   <div class="wrapper">
     <div class="summary-header">
@@ -33,28 +31,27 @@ permalink: /chehab/
     <!-- KPIs -->
     <div class="kpis">
       <div class="kpi-card">
-        <div class="kpi-number counter" data-target="{{ site.data.chehab.publication_stats.totals.journal_articles }}">0</div>
+        <div class="kpi-number counter" data-target="{{ site.data.chehab.stats.totals.journal_articles }}">0</div>
         <div class="kpi-label">Journal Articles</div>
       </div>
       <div class="kpi-card">
-        <div class="kpi-number counter" data-target="{{ site.data.chehab.publication_stats.totals.conference_papers }}">0</div>
+        <div class="kpi-number counter" data-target="{{ site.data.chehab.stats.totals.conference_papers }}">0</div>
         <div class="kpi-label">Conference Papers</div>
       </div>
-      <!-- Book Chapters Feature -->
       <div class="kpi-card">
-        <div class="kpi-number counter" data-target="{{ site.data.chehab.publication_stats.totals.book_chapters }}">0</div>
+        <div class="kpi-number counter" data-target="{{ site.data.chehab.stats.totals.book_chapters }}">0</div>
         <div class="kpi-label">Book Chapters</div>
       </div>
       <div class="kpi-card">
-        <div class="kpi-number counter" data-target="{{ site.data.chehab.publication_stats.totals.total_publications }}">0</div>
+        <div class="kpi-number counter" data-target="{{ site.data.chehab.stats.totals.total_publications }}">0</div>
         <div class="kpi-label">Total Publications</div>
       </div>
       <div class="kpi-card">
-        <div class="kpi-number counter" data-target="{{ site.data.chehab.publication_stats.google_scholar.citations }}">0</div>
+        <div class="kpi-number counter" data-target="{{ site.data.chehab.stats.google_scholar.citations }}">0</div>
         <div class="kpi-label">Citations</div>
       </div>
     </div>
-    <p style="text-align: right; color: var(--text-light); font-size: 0.85rem;"><em>Last updated: {{ site.data.chehab.publication_stats.last_updated }}</em></p>
+    <p style="text-align: right; color: var(--text-light); font-size: 0.85rem;"><em>Last updated: {{ site.data.chehab.stats.last_updated }}</em></p>
 
     <h2 class="section-title">Awards & Recognitions</h2>
     <div class="award-grid">
@@ -76,14 +73,32 @@ permalink: /chehab/
       {% endfor %}
     </div>
 
-    <!-- Right and Left boxes -->
+    <h2 class="section-title" style="margin-top: 2rem;">Service & Associations</h2>
+
+    <!-- Right and Left boxes row 1 -->
     <div class="two-column-layout">
-      <!-- Left Box -->
+      <!-- Professional Associations -->
       <div class="service-box">
-        <h3>Service to the Profession</h3>
+        <h3>Professional Associations</h3>
+        <ul class="clean-list">
+          {% for assoc in site.data.chehab.professional_associations %}
+          <li class="assoc-item">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 8px;">
+              <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+              <polyline points="22 4 12 14.01 9 11.01"></polyline>
+            </svg>
+            {{ assoc }}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      
+      <!-- Conference Organization -->
+      <div class="service-box">
+        <h3>Conference Organization</h3>
         <ul class="clean-list">
           {% for org in site.data.chehab.service_to_profession.conference_organization %}
-          <li>
+          <li style="margin-bottom: 12px;">
             <strong style="color: var(--primary-color);">{{ org.role }}</strong><br>
             <span style="font-size: 0.95rem; color: var(--text-light);">
               {% if org.event %}
@@ -96,27 +111,63 @@ permalink: /chehab/
           {% endfor %}
         </ul>
       </div>
+    </div>
 
-      <!-- Right Box -->
+    <!-- Right and Left boxes row 2 -->
+    <div class="two-column-layout" style="margin-top: 2rem;">
       <div class="service-box">
-        <h3>Professional Associations</h3>
+        <h3>Journal Reviews</h3>
         <ul class="clean-list">
-          {% for assoc in site.data.chehab.professional_associations %}
-          <li class="assoc-item">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
-              <polyline points="22 4 12 14.01 9 11.01"></polyline>
-            </svg>
-            {{ assoc }}
+          {% for jp in site.data.chehab.service_to_profession.journal_paper_reviews %}
+          <li style="margin-bottom: 12px;">
+            <strong style="color: var(--primary-color);">{{ jp.journal }}</strong><br>
+            <span style="font-size: 0.85rem; color: var(--text-light);">Years: {{ jp.years | join: ", " }}</span>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <div class="service-box">
+        <h3>Book Reviews</h3>
+        <ul class="clean-list">
+          {% for br in site.data.chehab.service_to_profession.book_reviews %}
+          <li style="margin-bottom: 12px;">
+            <strong style="color: var(--primary-color);">{{ br.title }}</strong><br>
+            <span style="font-size: 0.85rem; color: var(--text-light);">
+              {% if br.authors %}Authors: {{ br.authors }}<br>{% endif %}
+              Publisher: {{ br.publisher }}<br>
+              Date: <strong style="color: var(--accent-teal);">{% if br.year %}{{ br.year }}{% else %}{{ br.date }}{% endif %}</strong>
+            </span>
           </li>
           {% endfor %}
         </ul>
       </div>
     </div>
+    
+    <!-- Right and Left boxes row 3 -->
+    <div class="two-column-layout" style="margin-top: 2rem;">
+      <div class="service-box">
+        <h3>Technical Program Committee Member</h3>
+        <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+          {% for tpc in site.data.chehab.service_to_profession.technical_program_committee_member %}
+            <span style="background: rgba(0,0,0,0.04); border: 1px solid rgba(0,0,0,0.08); padding: 5px 12px; border-radius: 20px; font-size: 0.85rem; color: var(--text-color);">{{ tpc }}</span>
+          {% endfor %}
+        </div>
+      </div>
+
+      <div class="service-box">
+        <h3>Conference Paper Reviews</h3>
+        <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+          {% for conf in site.data.chehab.service_to_profession.conference_paper_reviews %}
+            <span style="background: rgba(0,0,0,0.04); border: 1px solid rgba(0,0,0,0.08); padding: 5px 12px; border-radius: 20px; font-size: 0.85rem; color: var(--text-color);">{{ conf }}</span>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
 
     <h2 class="section-title">Research Supervision</h2>
     
-    <h3>PhD Students</h3>
+    <h3>{{site.data.chehab.stats.supervisions.phd}} Phd Students</h3>
     <div class="student-grid">
       {% for student in site.data.chehab.research_supervision.phd_students %}
       <div class="student-card">
@@ -127,7 +178,7 @@ permalink: /chehab/
       {% endfor %}
     </div>
 
-    <h3 style="margin-top: 40px;">Master Students</h3>
+    <h3 style="margin-top: 40px;">{{site.data.chehab.stats.supervisions.master}} Master Students</h3>
     <div class="student-grid">
       {% for student in site.data.chehab.research_supervision.master_students %}
       <div class="student-card">

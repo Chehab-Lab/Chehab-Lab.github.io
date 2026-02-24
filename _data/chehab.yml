@@ -38,7 +38,7 @@ awards:
     location: "Santa Clara, CA, USA"
     date: "March 3-5, 2014"
 
-publication_stats:
+stats:
   last_updated: "February 23, 2026"
   totals:
     book_chapters: 15
@@ -49,6 +49,9 @@ publication_stats:
     citations: 10174
     h_index: 45
     i10_index: 169
+  supervisions:
+    phd: 20
+    master: 66
 
 research_supervision:
   phd_students:
@@ -194,6 +197,94 @@ service_to_profession:
       event: "Reputation, Evidence and other Collaboration Know-How (TRECK 2014)"
     - role: "Track Chair"
       event: "Mobile & Cloud Computing, ICCIT 2013"
+
+  technical_program_committee_member:
+    - "WINSYS 2020"
+    - "SDS 2021"
+    - "SDS 2020"
+    - "SDS 2019"
+    - "TRECK 2016"
+    - "TRECK 2015"
+    - "ICC 2014"
+    - "ICC 2012"
+    - "ICC 2011"
+    - "ICC 2010"
+    - "ICC 2009"
+    - "MELECON 2014"
+    - "IDT 2006-2014"
+    - "IWCMC 2013"
+    - "IWCMC 2011"
+    - "IWCMC 2010"
+    - "IIT 2013"
+    - "IIT 2008"
+    - "IIT 2007"
+    - "IIT 2006"
+    - "IIT 2005"
+    - "IIT 2004"
+    - "GLOBECOM 2012"
+    - "GLOBECOM 2009"
+    - "GLOBECOM 2008"
+    - "ICT 2012"
+    - "ICECS 2011"
+    - "ICECS 2008"
+    - "ICECS 2006"
+    - "MIC-CCA 2008"
+    - "DTIS 2009"
+    - "M-WCMC 2007"
+
+  conference_paper_reviews:
+    - "ICITST 2011"
+    - "ACC 2011"
+    - "ICP 2009"
+    - "SETIT 2009"
+    - "CAT 2008"
+    - "SAC 2008"
+    - "Prime 2007"
+
+  book_reviews:
+    - title: "Thermal Aware Testing of Digital VLSI Circuits and Systems"
+      publisher: "CRC Press"
+      year: 2017
+    - title: "Book Proposal on C#"
+      authors: "Bell and Parr"
+      publisher: "Pearson Education"
+      date: "September 2002"
+
+  journal_paper_reviews:
+    - journal: "Journal of Network and Computer Applications"
+      years: [2019, 2018]
+    - journal: "IEEE Access"
+      years: [2019]
+    - journal: "Journal of Computer Networks"
+      years: [2019]
+    - journal: "Jordanian Journal of Computers and Information Technology"
+      years: [2019]
+    - journal: "Future Generation Computer Systems"
+      years: [2019]
+    - journal: "International Journal of Communication Systems"
+      years: [2019]
+    - journal: "IEEE Transactions on VLSI"
+      years: [2012, 2015, 2016]
+    - journal: "Applied Mathematical Modelling (Elsevier)"
+      years: [2012]
+    - journal: "IEEE Transactions on Dependable and Secure Computing"
+      years: [2011]
+    - journal: "International Journal of Network Security"
+      years: [2005, 2006, 2008, 2009, 2010]
+    - journal: "IEEE Transactions on Intelligent Transportation Systems"
+      years: [2008]
+    - journal: "Electronics Letters"
+      years: [2007, 2008]
+    - journal: "IEEE Transactions on Circuits and Systems II"
+      years: [2007]
+    - journal: "IEE Proceedings - Circuits, Devices and Systems"
+      years: [2007]
+    - journal: "Journal of Electronic Testing: Theory and Applications (JETTA)"
+      years: [2005]
+    - journal: "International Journal on Education"
+      years: [2003]
+    - journal: "International Journal on Engineering Education"
+      years: [2003]
 
 professional_associations:
   - "Senior Member, IEEE"
