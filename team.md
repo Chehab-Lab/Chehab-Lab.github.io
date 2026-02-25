@@ -63,7 +63,7 @@ permalink: /team/
 
     <h3>Researchers</h3>
     <div class="team-grid">
-      {% for member in site.data.team.researcherss %}
+      {% for member in site.data.team.researchers %}
       <div class="team-card">
         <div style="position: relative; display: inline-block;">
           <img src="{{ member.image | default: 'https://ui-avatars.com/api/?background=random' }}" alt="{{ member.name }}" class="team-image">
