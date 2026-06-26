@@ -1,7 +1,7 @@
 ---
 title: Iris Analyzer
-description: An intelligent iris analysis tool that leverages machine learning to extract biometric insights from iris images, enabling non-invasive health screening and identity verification.
-image: https://images.unsplash.com/photo-1580591228904-e74a93e90782?w=600&auto=format&fit=crop&q=60
+description: An intelligent iris analysis tool that leverages machine learning to extract biometric insights from iris images, enabling non-invasive health screening.
+image: https://images.unsplash.com/photo-1617339860632-f53c5b5dce4d?w=600&auto=format&fit=crop&q=60
 link: https://iris-analyzer.streamlit.app
 tags: [AI, Biometrics, Healthcare]
 ---
