@@ -40,10 +40,12 @@ master_students:
     email: mhz12@mail.aub.edu
     image: https://ui-avatars.com/api/?name=Mohammad+Zahwe&background=random&color=fff&size=200
 
-researchers:
+researchers: []
+
+alumni:
   - name: Charbel Toumieh
     email: cct08@mail.aub.edu
     image: https://media.licdn.com/dms/image/v2/D4E03AQHnVWnBX-DE6Q/profile-displayphoto-shrink_200_200/B4EZdoehAdHIAc-/0/1749804520335?e=2147483647&v=beta&t=iIaUFeta4QK9AedAKGTxjI0jXl7Xfa6lOVBNbSiaDyQ
   - name: Gaurav Patil
     email: patilgauravpradeep@gmail.com
-    image: https://media.licdn.com/dms/image/v2/D4D03AQHfdymYZrCvZQ/profile-displayphoto-scale_200_200/B4DZdisJUrGkAY-/0/1749707430107?e=2147483647&v=beta&t=QTg0fcvqiE3S9j7HzGXsBKxojZj_dXvv6IT5Tmag2mg
+    image: https://media.licdn.com/dms/image/v2/D4D03AQHfdymYZrCvZQ/profile-displayphoto-scale_200_200/B4DZdisJUrGkAY-/0/1749707430107?e=2147483647&v=beta&t=QTg0fcvqiE3S9j7HzGsBKxojZj_dXvv6IT5Tmag2mg
