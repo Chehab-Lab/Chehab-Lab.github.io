@@ -115,6 +115,7 @@ document.getElementById('alumni-form').addEventListener('submit', async function
   try {
     await fetch('https://script.google.com/macros/s/AKfycbwdOVY6-AhLH5Cz8vqYMPBgqwMI2G1uTivzpujaKwT4vm2nbPPivUx7h7tyGqHVLTGr/exec', {
       method: 'POST',
+      mode: 'no-cors',
       body: JSON.stringify(payload)
     });
 
