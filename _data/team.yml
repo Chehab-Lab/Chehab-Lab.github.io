@@ -42,13 +42,13 @@ master_students:
   - name: John Harb
     email: jah30@mail.aub.edu
     image: https://ui-avatars.com/api/?name=John+Harb&background=random&color=fff&size=200
-   - name: Hussein Moukalled
+  - name: Hussein Moukalled
     email: ham69@mail.aub.edu
     image: https://ui-avatars.com/api/?name=Hussein+Moukalled&background=random&color=fff&size=200
-   - name: Roudy Barakat 
+  - name: Roudy Barakat 
     email: rtb07@mail.aub.edu
     image: https://ui-avatars.com/api/?name=Roudy+Barakat&background=random&color=fff&size=200
-   - name: Habib Shouman
+  - name: Habib Shouman
     email: hhs30@mail.aub.edu
     image: https://ui-avatars.com/api/?name=Habib+Shouman&background=random&color=fff&size=200
     
