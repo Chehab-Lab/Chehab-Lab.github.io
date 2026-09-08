@@ -26,6 +26,9 @@ phd_students:
     email: nka34@mail.aub.edu
     image: https://ui-avatars.com/api/?name=Nour+Al+Khatib&background=random&color=fff&size=200
 master_students:
+  - name: Ali Jaafar
+    email: ahj19@mail.aub.edu
+    image: https://ui-avatars.com/api/?name=Ali+Jaafar&background=random&color=fff&size=200
   - name: Marwa Deeb
     email: mhd41@mail.aub.edu
     image: https://ui-avatars.com/api/?name=Marwa+Deeb&background=random&color=fff&size=200
