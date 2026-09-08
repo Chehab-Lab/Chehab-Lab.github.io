@@ -1,11 +1,24 @@
 publications:
+- title: "AI-Based Detection of Malicious HID Attacks Using Behavioral and Payload Analysis"
+  publisher: "Springer"
+  authors: "Nour Fakih, Hussein Bakri, Fouad Trad, Ali Chehab "
+  year: "2026"
+  link: "https://doi.org/10.1007/978-3-032-30805-4_10"
+  is_journal: false
 - title: "Machine Learning-Based Cardiovascular Risk Calculator for Non-Cardiac Surgery"
   publisher: "Open Heart"
-  authors: "Nour Al Khatib, Ali Chehab, Habib A. Dakik, Razane Tajeddine"
+  authors: "Nour Al Khatib, Ali Chehab, Hani Tamim, Habib A. Dakik, Razane Tajeddine"
   year: "2026"
   link: "https://doi.org/10.1136/openhrt-2025-003565"
   is_journal: true
 
+- title: "End-to-end deep learning pipeline for opportunistic vertebral fracture and Schmorl’s node detection from routine CT scans"
+  publisher: "Frontiers"
+  authors: "Hadi Hasan, Ghada El-Hajj Fuleihan, Mustafa Natout, Ammar Mohanna, Razane Tajeddine, Walid Rafeh, Firas Saleh, Raquelle El Alam, Reve Chahine, Nabil Khoury, Ali Chehab"
+  year: "2026"
+  link: "https://doi.org/10.3389/fmscd.2026.1718482"
+  is_journal: true
+  
 - title: "On the Effectiveness of Membership Inference in Targeted Data Extraction from Large Language Models"
   publisher: "IEEE Secure and Trustworthy Machine Learning Conference (SaTML), TUM, Germany"
   authors: "Ali Al Sahili, Ali Chehab, Razane Tajeddine"
@@ -64,7 +77,7 @@ publications:
 
 - title: "Augmenting a Spine CT Scans Dataset Using VAEs, GANs, and Transfer Learning for Improved Detection of Vertebral Compression Fractures"
   publisher: "Computers in Biology and Medicine"
-  authors: "Zeinal El Kojok, Hadi Al Khansa, Fouad Trad, Ali Chehab"
+  authors: "Zeina El Kojok, Hadi Al Khansa, Fouad Trad, Ali Chehab"
   year: "2025"
   link: "https://doi.org/10.1016/j.compbiomed.2024.109446"
   is_journal: true
@@ -85,14 +98,14 @@ publications:
 
 - title: "Retrieval-Augmented Few-Shot Prompting Versus Fine-Tuning for Code Vulnerability Detection"
   publisher: "International Conference on Foundation and Large Language Models (FLLM), Vienna, Austria"
-  authors: "Fuad Trad, Ali Chehab"
+  authors: "Fouad Trad, Ali Chehab"
   year: "2025"
   link: 
   is_journal: false
 
 - title: "CLASP: Cost-Optimized LLM-based Agentic System for Phishing Detection"
   publisher: "5th International Conference on Electrical, Computer and Energy Technologies (ICECET), Paris, France"
-  authors: "Fuad Trad, Ali Chehab"
+  authors: "Fouad Trad, Ali Chehab"
   year: "2025"
   link: 
   is_journal: false
@@ -106,7 +119,7 @@ publications:
 
 - title: "Detecting Quishing Attacks with Machine Learning Techniques Through QR Code Analysis"
   publisher: "International Conference on Optimization and Learning (OLA), Dubai"
-  authors: "Fuad Trad, Ali Chehab"
+  authors: "Fouad Trad, Ali Chehab"
   year: "2025"
   link: 
   is_journal: false
@@ -127,7 +140,7 @@ publications:
 
 - title: "Manual Prompt Engineering Is Not Dead: A Case Study on Large Language Models for Code Vulnerability Detection with DSPy"
   publisher: "International Conference on Data Science and Machine Learning Applications (CDMA), Riyadh, Saudi Arabia"
-  authors: "Fuad Trad, Ali Chehab"
+  authors: "Fouad Trad, Ali Chehab"
   year: "2025"
   link: 
   is_journal: false
