@@ -13,20 +13,22 @@ phd_students:
   - name: Ahmad Mustapha
     email: amm90@mail.aub.edu
     image: https://mustaphaxai.com/resources/Professional-Picture-Me.png
+  - name: Myriam El Haddad
+    email: mee17@mail.aub.edu
+    image: https://ui-avatars.com/api/?name=Myriam+El+Haddad&background=random&color=fff&size=200
+  - name: Ayman Kanso 
+    email: amm90@mail.aub.edu
+    image: https://ui-avatars.com/api/?name=Ayman+Kanso&background=random&color=fff&size=200
   - name: Hadi Hasan
     email: hsh24@mail.aub.edu
     image: https://media.licdn.com/dms/image/v2/D4D03AQHnv4sTHgSjLg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715920492946?e=2147483647&v=beta&t=QQCUBa7Y4fxolV5DMvLkU9mkrOEOyAKKzU2iPaDYZoU
-
-master_students:
   - name: Nour Al Khatib
     email: nka34@mail.aub.edu
     image: https://ui-avatars.com/api/?name=Nour+Al+Khatib&background=random&color=fff&size=200
+master_students:
   - name: Marwa Deeb
     email: mhd41@mail.aub.edu
     image: https://ui-avatars.com/api/?name=Marwa+Deeb&background=random&color=fff&size=200
-  - name: Zeina Eldika
-    email: zte04@mail.aub.edu
-    image: https://ui-avatars.com/api/?name=Zeina+Eldika&background=random&color=fff&size=200
   - name: Jihad Katerji
     email: jtk08@mail.aub.edu
     image: https://media.licdn.com/dms/image/v2/D4E03AQHF1iyiPXeO8g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1729325795467?e=2147483647&v=beta&t=N81b1AkaZE4FtsTP5EIB4YIJhlgMbgqCYKxhpkxn58o
@@ -54,6 +56,13 @@ master_students:
     
 researchers: []
 
+researchers:
+  - name: Ali Sahili
+    email: ama318@mail.aub.edu
+    image: https://ui-avatars.com/api/?name=Ali+Sahili&background=random&color=fff&size=200
+  - name: Tala Jezzini
+    email: tj16@aub.edu.lb
+    image: https://ui-avatars.com/api/?name=Tala+Jezzini&background=random&color=fff&size=200
 alumni:
   - name: Charbel Toumieh
     email: cct08@mail.aub.edu
@@ -61,3 +70,9 @@ alumni:
   - name: Gaurav Patil
     email: patilgauravpradeep@gmail.com
     image: https://gauravpatil8.github.io/pfp.jpg
+  - name: Zeina Eldika
+    email: zte04@mail.aub.edu
+    image: https://ui-avatars.com/api/?name=Zeina+Eldika&background=random&color=fff&size=200
+  - name: Nour Fakih
+    email: nhf16@mail.aub.edu
+    image: https://ui-avatars.com/api/?name=Nour+Fakih&background=random&color=fff&size=200
