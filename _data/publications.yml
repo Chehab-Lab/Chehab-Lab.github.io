@@ -1,4 +1,16 @@
 publications:
+- title: "Probing Image Encoder Robustness via Retrieval Consistency Under Input Perturbations"
+  publisher: "Springer"
+  authors: "Gaurav Patil, Ahmad Mustapha, Ali Chehab"
+  year: "2026"
+  link: "https://link.springer.com/chapter/10.1007/978-3-032-38401-0_26"
+  is_journal: false
+- title: "Alignment with Ground Truth (GTA): An Optimization-Free Hyperparameter-Free Metric for Evaluating Learned Representations"
+  publisher: "Springer"
+  authors: "Ahmad Mustapha, Ali Chehab"
+  year: "2026"
+  link: "https://link.springer.com/chapter/10.1007/978-3-032-38398-3_41"
+  is_journal: false
 - title: "AI-Based Detection of Malicious HID Attacks Using Behavioral and Payload Analysis"
   publisher: "Springer"
   authors: "Nour Fakih, Hussein Bakri, Fouad Trad, Ali Chehab "
